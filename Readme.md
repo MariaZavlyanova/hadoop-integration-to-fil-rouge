@@ -1,6 +1,5 @@
 # Project
 # Integration to "Fil rouge" project
-réalisé dans l'env SIO de conda
 
 # Connect to hdfs
 
